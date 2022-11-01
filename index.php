@@ -81,7 +81,7 @@
 </div>
 </div>
 
-<footer class=" p-1 text-white bg-primary mt-auto text-center fixed-bottom">
+<footer class=" p-1 text-white bg-primary mt-auto text-center fixed-bottom w-100">
 <div class="text-center bg-light text-dark p-3">
   <h2> The css frameworks are very useful </h2>
   <p>Learning them comes with practice</p>
