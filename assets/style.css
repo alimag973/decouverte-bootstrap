@@ -1,3 +1,11 @@
-.navbar{
-text-decoration: antiquewhite;
+.card {
+    min-width: 300px;
+}
+
+body {
+    min-height: 100vh;
+}
+footer {
+    text-align: center;
+    width: auto;
 }
