@@ -5,10 +5,4 @@
 body {
     min-height: 100vh;
 }
-footer {
-    background-color: var(--bs-primary);
-    color: white;
-    text-align: center;
-    width: auto;
-    padding: 0.1rem; 
-}
+ 
